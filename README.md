@@ -21,5 +21,26 @@ SCRUM course.
 11. Self-organization. The best architectures, requirements and designs emerge from self-organized teams. 
 12. Self-appraisal. The team is able to adjust and refine their behavior.
 
+## What is SCRUM?
+Scrum is an agile framework by wich people can address complex adaptive problems, while delivering products of the highest possible value productively and creatively.
+
+The essence of Scrum is a small team of people.
+The individual team is highly flexible and adaptive.
+
+Scrum is bases on the theory of empirical process control or empiricism. Empiricism ensures that knowledge comes from experience and decision making based on what is known.
+
+### Scrum pillars:
+* Transparency.
+* Inspection.
+* Adaptation.
+
+### Scrum values
+* Commitment.
+* Courage.
+* Focus.
+* Opennes.
+* Respect.
+
+
 
 
