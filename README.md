@@ -29,6 +29,7 @@ The individual team is highly flexible and adaptive.
 
 Scrum is bases on the theory of empirical process control or empiricism. Empiricism ensures that knowledge comes from experience and decision making based on what is known.
 
+
 ### Scrum pillars:
 * Transparency.
 * Inspection.
@@ -42,5 +43,25 @@ Scrum is bases on the theory of empirical process control or empiricism. Empiric
 * Respect.
 
 
+## Learning Scrum components
+The Scrum team is self-organized and multifunctional.
 
+### Scrum team
+* Product owner: Responsible for maximizing the value of the product.
+* Scrum master: Responsible for promoting and supporting Scrum.
+* Development Team: Professionals who do the job of delivering an increase in "finished" product.
 
+### Scrum events
+in Scrum there are predefined events in order to create regularity and minimize the need for meetings not defined in Scrum.
+
+* Sprint: It's the heart of Scrum where an increase in the product is created.
+* Sprint planning: Ceremony to define what will be done duaring the sprint.
+* Daily Scrum (Daily stand-up): Daily meeting of the entire development team.
+* Sprint review: It's where the increase developed duaring the sprint is shown.
+* Scrum retrospective: Opportunity to apply continuous improvement.
+
+### Scrum artifacts
+Scrum artifacts represent work or value in various ways that are useful for providing transparency and opportunities for inspection and adaptation.
+
+* Product list (Produc Backlog): It's an ordered list of everything that is known that is necessary in the product.
+* List of sprint earrings (Sprint Backlog): Items in the product list selected for the sprint.
