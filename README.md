@@ -90,3 +90,17 @@ Teams can be organized based on functionalities or components.
 2) Make up a team of 3 to 9 people, small and flexible.
 3) Make sure you have all Scrum roles.
 4) Maintain daily sessions of maximum 15 minutes with a specific objective.
+---
+
+## The role of the product owner
+It's responsible for maximizing the value of the product resulting from the work of the development team.
+The product owner is the only person responsible for managing the product list.
+
+### Responsability
+* Be clear about the items in the product list.
+* Prioritize the work value of the development team.
+* Ensure that the product list is visible, transparent and clear.
+* Ensure that the development team knows the elements of the product list.
+
+The decisions of the product owner are reflected in the content and in the prioritization of the product list.
+No one can force the development team to work based on a different set of requirements.
