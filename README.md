@@ -1,11 +1,13 @@
 # SCRUM_COURSE
-SCRUM course.
+By Cristian Franco Bedoya
+---
 
 ## Manifesto for agil development
 * Individuals and interactions about process and tools.
 * Software running on extensive documentation.
 * Collaboration with de client on contractual negociation.
 * Change response.
+---
 
 ## Agil Principles
 1. Customer satisfaction. Early and continuos delivery of software with value.
@@ -20,6 +22,7 @@ SCRUM course.
 10. Simplicity. The art of maximizing the amount of work not done is essential.
 11. Self-organization. The best architectures, requirements and designs emerge from self-organized teams. 
 12. Self-appraisal. The team is able to adjust and refine their behavior.
+---
 
 ## What is SCRUM?
 Scrum is an agile framework by wich people can address complex adaptive problems, while delivering products of the highest possible value productively and creatively.
@@ -30,18 +33,18 @@ The individual team is highly flexible and adaptive.
 Scrum is bases on the theory of empirical process control or empiricism. Empiricism ensures that knowledge comes from experience and decision making based on what is known.
 
 
-### Scrum pillars:
+### Scrum pillars:
 * Transparency.
 * Inspection.
 * Adaptation.
 
-### Scrum values
+### Scrum values
 * Commitment.
 * Courage.
 * Focus.
 * Opennes.
 * Respect.
-
+---
 
 ## Learning Scrum components
 The Scrum team is self-organized and multifunctional.
@@ -65,3 +68,25 @@ Scrum artifacts represent work or value in various ways that are useful for prov
 
 * Product list (Produc Backlog): It's an ordered list of everything that is known that is necessary in the product.
 * List of sprint earrings (Sprint Backlog): Items in the product list selected for the sprint.
+---
+
+## SCRUM Team
+THe team model in Scrum is designed to optimize flexibility, creativity and productivity.
+
+* Product owner: Architect understands how the project is to be built.
+* Scrum master: It's one that must carry out a continuous process.
+* Development team: Those who build the product.
+
+Scrum teams deliver products iteratively and incrementally, maximizing opportunities for feedback.
+
+### Dependencies
+It's ideal to organize teams thinking of minimizing dependencies with external entities.
+
+### Types of organization
+Teams can be organized based on functionalities or components.
+
+### How to form a Scrum team
+1) Build a team with all the professional profiles you need to develop your project.
+2) Make up a team of 3 to 9 people, small and flexible.
+3) Make sure you have all Scrum roles.
+4) Maintain daily sessions of maximum 15 minutes with a specific objective.
