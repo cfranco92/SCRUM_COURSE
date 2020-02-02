@@ -104,3 +104,26 @@ The product owner is the only person responsible for managing the product list.
 
 The decisions of the product owner are reflected in the content and in the prioritization of the product list.
 No one can force the development team to work based on a different set of requirements.
+---
+
+## The role of the Scrum master
+He is responsible for promoting and supporting Scrum by helping everyone understand Scrum's theory, practices, rules and values.
+
+The Scrum master is a leader who is at the service of the Scrum team.
+
+It helps people outside the Scrum team to understand which interactions with the Scrum team can be useful and wich not.
+
+### crum master service to the product owner
+* Ensure thath the objective, scope and mastery of the product are understood by everyone in the Scrum team in the best possible way.
+* Facilitate Scrum events as required or needed.
+
+### Scrum master service to the development team
+* Guide the development team in being self-organized and multifunctional.
+* Help the develpment team create high value products.
+* Remove impediments to the progress of the development team.
+
+### The Scrum master service to the organization
+* Lead and guide the organization in the adoption of Scrum.
+* Work with other Scrum Masters to increase the effectiveness of the Scrum application in the organization.
+---
+
