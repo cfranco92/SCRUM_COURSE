@@ -127,3 +127,22 @@ It helps people outside the Scrum team to understand which interactions with the
 * Work with other Scrum Masters to increase the effectiveness of the Scrum application in the organization.
 ---
 
+## The basis of the development team
+The development team consists of professionals who perform the work of delivering an increase in "finished" product that can potentially be ñut into production at the end of each Sprint.
+
+The organization is responsible for structuring and empowering develpment teams to organize and manage their own work.
+
+### Catalog of the development team
+* Self-organization: They define who develops each process according to their abilities.
+* Multifunctional: Tasks of different types without the need for external resources.
+* They have no titles: Everyone is equal and responsible in the same way for fulfilling the Spring objective.
+* There are no sub-teams: Everyone works in single team at the same pace of work.
+* The development team cannot be modified until the sprint is finished.
+
+### Development team size
+The optimal size of the develpment team is small enough to remain agile and large enough to complete a significant amount of work.
+---
+
+
+
+
